@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<variables>
+  <item Name=" Financiero"/>
+  <item Name="dAcumulado" Value="&#60;CANTIDAD_ANTERIOR&#62; + &#60;dsmBitacora1.&#34;dCantidad&#34;&#62;"/>
+  <item Name="dAvanceAcumulado" Value="&#60;AVANCE_ANTERIOR&#62; + &#60;dsmBitacora1.&#34;dAvance&#34;&#62;"/>
+  <item Name="sTexto" Value="IIF(lblAvance.Value &#60;&#62; '','O B S E R V A C I O N E S','')"/>
+  <item Name=" NuevasVar"/>
+  <item Name="PUESTO_SUPERINTENDENTE"/>
+  <item Name="SUPERVISOR"/>
+  <item Name="PUESTO_SUPERVISOR"/>
+  <item Name="SUPERINTENDENTE"/>
+  <item Name="DESCRIPCION_CORTA"/>
+  <item Name="PERIODO"/>
+  <item Name="sNewTexto"/>
+  <item Name="REAL_ANTERIOR_MULTIPLE"/>
+  <item Name="PROGRAMADO_ANTERIOR_MULTIPLE"/>
+  <item Name="REAL_ACTUAL_MULTIPLE"/>
+  <item Name="REAL_ACUMULADO_MULTIPLE"/>
+  <item Name="PROGRAMADO_ACTUAL_MULTIPLE"/>
+  <item Name="PROGRAMADO_ACUMULADO_MULTIPLE"/>
+  <item Name="REAL_ANTERIOR"/>
+  <item Name="PROGRAMADO_ANTERIOR"/>
+  <item Name="REAL_ACTUAL"/>
+  <item Name="REAL_ACUMULADO"/>
+  <item Name="PROGRAMADO_ACTUAL"/>
+  <item Name="PROGRAMADO_ACUMULADO"/>
+  <item Name="IMPRIME_AVANCES"/>
+  <item Name="PUESTO_SUPERVISOR_TIERRA"/>
+  <item Name="SUPERVISOR_TIERRA"/>
+  <item Name="Oficio_Orden"/>
+  <item Name="Plataforma"/>
+</variables>
